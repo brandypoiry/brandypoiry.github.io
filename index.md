@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+People stuff is the hard stuff
 
-Maybe say a some things about yourself.
+I've been working on the people stuff - learning, culture, improvement, etc. - for a long time
 
-Or maybe what you plan to blog about.
+Maybe I can share what I've learned and in the process learn more here
