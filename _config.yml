@@ -32,6 +32,11 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+header_pages:
+  - resume.html
+  - books.md
+  - archive.md
+
 defaults:
   - scope:
       path: ""
