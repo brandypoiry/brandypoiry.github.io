@@ -6,7 +6,6 @@ body {margin: 25px 250px 75px 250px;
 }
 </style>
 </head>
-<body>
 
 <body>
 <h1> Brandy Poiry </h1>
