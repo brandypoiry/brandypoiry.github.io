@@ -33,7 +33,7 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - resume.html
+  - resume.md
   - books.md
   - archive.md
 
