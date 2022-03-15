@@ -3,8 +3,6 @@ layout: page
 title: Books
 description: Books I am reading, will read, and have reviewed
 ---
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
