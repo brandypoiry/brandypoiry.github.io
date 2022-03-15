@@ -24,11 +24,6 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
-header_pages:
-  - resume.html
-  - archive.html
-  - books.md
-  
 plugins:
   - jekyll-feed
   - jekyll-sitemap
