@@ -28,7 +28,6 @@ header_pages:
   - resume.html
   - archive.html
   - books.md
-  - bookmarks.md
   
 plugins:
   - jekyll-feed
