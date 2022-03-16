@@ -18,6 +18,7 @@ body {margin: 25px 250px 75px 250px;
 </p>
 
 <h2> Completed Book Reviews and Recommendations</h2>
+  *Still in progress
 <ul>
   <li> Accelerate</li>
   <li> The Art of Business Value</li>
