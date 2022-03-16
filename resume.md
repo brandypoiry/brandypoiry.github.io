@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: Resume
 description: Books I am reading, will read, and have reviewed
 ---
 
