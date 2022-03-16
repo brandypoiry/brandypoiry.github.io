@@ -20,7 +20,7 @@ linkedin_username: brandy-poiry
 #########################################################################################
 theme: "minima"
 
-skin: dark
+google_analytics: UA-NNNNNNNN-N
 
 kramdown:
   syntax_highlighter_opts:
