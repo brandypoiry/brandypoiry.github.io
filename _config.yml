@@ -33,9 +33,9 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - resume.md
   - books.md
   - archive.md
+  - resume.md
 
 defaults:
   - scope:
