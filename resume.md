@@ -68,12 +68,11 @@ body {margin: 25px 250px 75px 250px;
     <li> Revised training materials for the GPS for Disaster Response Operations course to reflect the most current doctrine, policies, and procedures </li></ul>
   <li> Civilian Personnel Management Service, Defense Senior Leader Development Program— Leadership Curriculum </li>
   <ul>
-     <li> Provided quality assurance services for WBT course - Critical Thinking – part of a comprehensive leadership curriculum for civilian executive candidates in the Department of Defense </li></ul>
-</ul>
+     <li> Provided quality assurance services for WBT course - Critical Thinking – part of a comprehensive leadership curriculum for civilian executive candidates in the Department of Defense </li></ul></ul>
 <p style="color:blue;"> <b> Public School Systems | Classroom Teacher</b>, Various <i> August 2007 - November 2011 </i> </p>
 <ul>
-  <li> Utilized blended and asynchronous learning through Blackboard, Moodle, and social learning platforms, incorporated opportunities for technology application in the classroom, established metrics for evaluating learning
-  <li> Developed and implemented curriculum and technology training for staff, participated in the district Technology Leadership Program, and formally trained as a mentor to new teachers
+  <li> Utilized blended and asynchronous learning through Blackboard, Moodle, and social learning platforms, incorporated opportunities for technology application in the classroom, established metrics for evaluating learning </li>
+  <li> Developed and implemented curriculum and technology training for staff, participated in the district Technology Leadership Program, and formally trained as a mentor to new teachers </li>
   <li> Served as committee chairperson tasked with analyzing performance data, documenting analysis with plans for improvement, maintaining in-process matrices, documenting the projected impact on performance, assigning tasks to committee members, maintaining project timelines, reviewing cycle performance, and adjusting plans as needed </li>
   <li> Served as a member of Curriculum Design Team for Language Arts curriculum in ACPS tasked with: creating measurement categories to monitor learning over time; adding suggested content resources; creating a matrix for addressing standards each year; creating transfer tasks, essential questions, declarative knowledge, and procedural knowledge statements; and compiling essential vocabulary </li>
   <li> Served as department chair with the following roles and responsibilities: conducting searches and interviews for new department staff, coordinating materials management, maintaining department budget, acting as a liaison between department and leadership team, mentoring department faculty, organizing and presiding over department meetings, developing and implementing department professional learning, managing common assessments and benchmark tests, processing appropriate paperwork, applying for relevant grants, observing department staff instructional practices and providing necessary feedback, and analyzing department test data and benchmark progress.</li></ul>
