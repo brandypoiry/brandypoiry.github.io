@@ -37,6 +37,8 @@ header_pages:
   - archive.md
   - resume.md
 
+show_excerpts: true
+
 defaults:
   - scope:
       path: ""
