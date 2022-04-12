@@ -25,7 +25,9 @@ google_analytics: G-FGDW3ZG4NB
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
+url: "https://brandypoiry.github.io"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
