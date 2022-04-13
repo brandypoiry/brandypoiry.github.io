@@ -26,8 +26,8 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 
-url: 'https://brandypoiry.github.io/'
-baseurl: 'brandypoiry.github.io' # if you're using custom domain keep this blank example: baseurl: ''
+url: https://brandypoiry.github.io/
+baseurl: brandypoiry.github.io
 
 plugins:
   - jekyll-feed
