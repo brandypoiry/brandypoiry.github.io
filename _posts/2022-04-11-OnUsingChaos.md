@@ -20,7 +20,8 @@ For an individual, this generally looks like a progression of engagement with a 
 
 The kind of change we want to see is a process. It doesn’t happen quickly and people will be in different places throughout their journeys. The way to approach the change is to build in the structure for this cognitive exercise. By ensuring that all people affected by a given change or direction are growing in understanding of the needed change continuously until the change is enacted, we can facilitate a much smoother change process.  In order to do this, we must cultivate a culture of learning and continuously feed the right behaviors, knowledge, and skills into it to feed the process of problem identification, concept discovery, sharing, and eventual normalization. I envision this as a spiral that some members of my team have started referring to as the "Learning Tornado".
 
-![Learning Tornado](https://github.com/brandypoiry/brandypoiry.github.io/blob/720c03ad21dff091f6ca3b07c7ad60cfcda3172a/assets/images/LearningTornado.png)
+![LearningTornado](/assets/images/LearningTornado.png)
+<img src="/assets/images/LearningTornado.png" alt="Learning Tornado">
 
 Assessing progress through this process is definitely a challenge. There is a change curve that was adapted from the work of [Kubler-Ross](https://en.wikipedia.org/wiki/Five_stages_of_grief)  on grief. The spiral I’ve been discussing doesn’t really begin until stage 3 of that process, but you can start to see the progress when you start to see the following behaviors: 
 Not Ready – This is the point at which people are fundamentally still resisting change. There will always be people who struggle to get past this stage. The best way to help them move past it is to provide success stories and access to information about what the change really means 
