@@ -27,7 +27,7 @@ kramdown:
     disable: true
 
 url: https://brandypoiry.github.io/
-baseurl: brandypoiry.github.io
+baseurl: /brandypoiry.github.io
 
 plugins:
   - jekyll-feed
