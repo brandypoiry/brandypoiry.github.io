@@ -1,4 +1,4 @@
-##On Greener Grass
+## On Greener Grass
 
 I started writing this post on the evening of my last day working for Cerner - for almost 9 years. I loved the work I was doing at Cerner and am incredibly grateful for the opportunities I was given to grow while I was there, but it was time for a change. I’ve often heard the advice, “Go to something you want, don’t run away from what you have. It took more than a year for me to find the right thing, and in the end, the right thing found me instead. Then it took me nine months to finish the blog post.
 
