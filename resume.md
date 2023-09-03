@@ -18,8 +18,8 @@ body {margin: 25px 250px 75px 250px;
 <hr>
 <h5> STRENGTHS & QUALIFICATIONS </h5>
 <ul>
-  <li> 14 years of learning and development experience </li>
-  <li> 9+ years of leadership experience with spans of 40 people and 5 teams </li>
+  <li> 15 years of learning and development experience </li>
+  <li> 10+ years of leadership experience with spans of 40 people and 5 teams supporting workforces of 7,000+ people</li>
   <li> Strong practitioner of followership as a leadership discipline, encouraging empowerment and agency among team members </li>
   <li> Passionate about growing people </li>
   <li> Comfortable working with and influencing technical teams and leaders across the globe </li>
@@ -28,7 +28,18 @@ body {margin: 25px 250px 75px 250px;
 </ul>
 <hr>
 <h5> EXPERIENCE </h5>
-<p style="color:blue;"> <b> Cerner</b>, Kansas City, MO, <i> August 2013 - Present </i>
+<p style="color:blue;"> <b> H&R Block</b>, Kansas City, MO, <i> May 2022 - Present</i> 
+</p>
+<p>Director | Technology </p>
+<ul>
+  <li> Led and influenced teams to evolve experience and processes for engineering, including automated testing, infrastructure as code, and modernizing IT tools, resulting in a 100% increase in deployment frequency over one year </li>
+  <li>Led, managed, and coached team to bring technology expertise and automation to the organization; deployment pipeline automation resulted in a 400% improvement in deployment policy compliance over one year </li>
+  <li>Collaborated with technology and product teams and leaders to build agile and DevOps processes into the delivery of new and enhanced products using a metrics-driven framework to assess progress and determine where to focus for improvement </li>  
+  <li> Drove change with thought leadership, empathy, determination to make a difference, and managing relationships at all levels to move the organization forward </li>
+  <li> Planned, developed, and executed change management approaches and strategies to move the organization towards the vision; defined executable roadmap with and for the team and organization </li>  
+  <li> Cultivated a culture of excellence through engineering-focused programming, including hackathons, tech talks, lightning talks, and identity; Block was recognized by Forbes as one of “America’s Most Innovative Companies” as a result of engineering culture programming in March 2023 </li>
+</ul>
+<p style="color:blue;"> <b> Cerner</b>, Kansas City, MO, <i> August 2013 - May 2022 </i>
 </p>
 <p> Director | Continuous Improvement, March 2019 - Present </p>
 <ul>
