@@ -19,7 +19,7 @@ body {margin: 25px 250px 75px 250px;
 <h5> STRENGTHS & QUALIFICATIONS </h5>
 <ul>
   <li> 15 years of learning and development experience </li>
-  <li> 10+ years of leadership experience with spans of 40 people and 5 teams supporting workforces of 7,000+ people</li>
+  <li> 10+ years of leadership experience with spans of 40 people and five teams supporting workforces of 7,000+ people</li>
   <li> Strong practitioner of followership as a leadership discipline, encouraging empowerment and agency among team members </li>
   <li> Passionate about growing people </li>
   <li> Comfortable working with and influencing technical teams and leaders across the globe </li>
@@ -45,6 +45,7 @@ body {margin: 25px 250px 75px 250px;
 <ul>
   <li> Facilitated Agile practice improvement by 32% in 8 months across over 300 scrum teams as Agile transformation leader; measured by reduction in feature carry-over </li>
   <li> Improved associate confidence in agile transformation success by 53% in one year </li>
+  <li> Led engineering team to create automatic artifact gathering tool in pipelines to satisfy FDA compliance requirements</li>
   <li> Directed the activities of teams to execute continuous improvement, learning and onboarding, and process management strategies for product management and development organizations</li>
   <li> Identified, planned, and executed high-impact projects and programs for advancing organizational, engineering, and quality best practices leveraging deep knowledge of behavior change and learning frameworks </li>
   <li> Partnered with cross-functional teams to execute appropriate change management models when taking new solutions to learners </li>
@@ -52,17 +53,17 @@ body {margin: 25px 250px 75px 250px;
 </ul>
 <p> Program Manager | Engineering Culture, July 2017 - July 2019 </p>
 <ul>
-  <li> Managed $1.6 million budget to deliver $2 million in profit via internal charge-backs and avoid $1.1 million in external vendor cost annually over two years </li>
+  <li> Managed $1.6 million budget to deliver $2 million via internal charge-backs and avoid $1.1 million in external vendor cost annually over two years </li>
   <li> Generated $500,000 in income through cultivating external sponsors for internal events annually </li>
   <li> Acted as an organizational influencer for engineering and learning culture advocacy by networking across lines of business, industry contacts, and office locations </li>
   <li> Directed programs to leverage industry speakers, best practices, and concepts to create common discourse and change within the workforce </li>
-  <li> Managed execution of three development conferences in three cities, including track themes, keynote and talk selection, visual theme, and event logistics </li>
+  <li> Managed execution of development conferences in three cities, including track themes, keynote and talk selection, visual theme, and event logistics </li>
   <li> Facilitated transformative learning through carefully curated content and programmatic culture experiences </li>
 </ul>
 <p> Learning Strategist | Product Management, Development, and Operations, August 2013 - July 2017 </p>
 <ul>
   <li>Avoided ~$9.6 million in cost over three years in new hire costs through leadership development program success</li>
-  <li> Reduced employee time to competency from 6 to 3 months, avoiding ~$19k in cost per new hire across over 4500 new hires; translated $85 million of spend </li>
+  <li> Reduced employee time to competency from 6 to 3 months, avoiding ~$19k in cost per new hire across over 4500 new hires; translated $85 million </li>
   <li> Drove the development and implementation of associate learning development framework and architecture from strategy through execution, inclusive of virtual/hybrid learning at scale</li>
   <li> Collaborated with senior leaders across business models and partner teams to develop a comprehensive strategy to consistently address the motivation and competency needs of associates required to achieve business outcomes </li>
   <li> Partnered with external learning vendors to curate and deliver scalable training solutions </li>
@@ -74,7 +75,7 @@ body {margin: 25px 250px 75px 250px;
     <li> Acted as the Training Lead to several career competency areas in a consultative capacity </li>
     <li> Performed data analysis to identify training gaps and propose courses for filling identified gaps </li>
     <li> Identified blended learning opportunities and strategies, opportunities for incorporating technology in training, and led the launch of VA OIT’s first virtual instructor-led training program </li>
-    <li> Worked with SMEs to develop content for soft skills and IT skills training including and led team to develop a proprietary language training program </li>
+    <li> Worked with SMEs to develop content for soft skills and IT skills training and led team to develop a proprietary language training program </li>
   </ul>
   <li> Centers for Medicare and Medicaid Services (CMS) - Provide Health Care Learning Solutions for Targeted Populations </li>
   <ul>
@@ -95,7 +96,7 @@ body {margin: 25px 250px 75px 250px;
   <li> Developed and implemented curriculum and technology training for staff, participated in the district Technology Leadership Program, and formally trained as a mentor to new teachers </li>
   <li> Served as committee chairperson tasked with analyzing performance data, documenting analysis with plans for improvement, maintaining in-process matrices, documenting the projected impact on performance, assigning tasks to committee members, maintaining project timelines, reviewing cycle performance, and adjusting plans as needed </li>
   <li> Served as a member of Curriculum Design Team for Language Arts curriculum in ACPS tasked with: creating measurement categories to monitor learning over time; adding suggested content resources; creating a matrix for addressing standards each year; creating transfer tasks, essential questions, declarative knowledge, and procedural knowledge statements; and compiling essential vocabulary </li>
-  <li> Served as department chair with the following roles and responsibilities: conducting searches and interviews for new department staff, coordinating materials management, maintaining department budget, acting as a liaison between department and leadership team, mentoring department faculty, organizing and presiding over department meetings, developing and implementing department professional learning, managing common assessments and benchmark tests, processing appropriate paperwork, applying for relevant grants, observing department staff instructional practices and providing necessary feedback, and analyzing department test data and benchmark progress.</li>
+  <li> Served as department chair with the following roles and responsibilities: conducting searches and interviews for new department staff, coordinating materials management, maintaining department budget, acting as a liaison between department and leadership team, mentoring department faculty, organizing and leading department meetings, developing and implementing department professional learning, managing common assessments and benchmark tests, processing appropriate paperwork, applying for relevant grants, observing department staff instructional practices and providing necessary feedback, and analyzing department test data and benchmark progress.</li>
 </ul>
 <hr>
 <h5> EDUCATION </h5>
