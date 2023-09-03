@@ -13,7 +13,7 @@ body {margin: 25px 250px 75px 250px;
 
 <body>
 <h2> Current Book</h2>
-<a> https://a.co/d/3uYyw6b> Multipliers: How the Best Leaders Make Everyone Smarter</a> by Liz Wiseman
+<a> <https://a.co/d/3uYyw6b> Multipliers: How the Best Leaders Make Everyone Smarter</a> by Liz Wiseman
 
 <h2> Completed Book Reviews and Recommendations</h2>
 <ul>
