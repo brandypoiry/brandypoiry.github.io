@@ -15,7 +15,7 @@ body {margin: 25px 250px 75px 250px;
 <h2> Current Book(s)</h2>
 <ul>
   <li><a href="https://a.co/d/3uYyw6b"> Multipliers: How the Best Leaders Make Everyone Smarter </a> by Liz Wiseman</li>
-  <li><a href="https://a.co/d/5iNUtQ5"> Deming's Journey to Profound Knowledge <a/> by John Willis</li>
+  <li><a href="https://a.co/d/5iNUtQ5"> Deming's Journey to Profound Knowledge </a>a> by John Willis</li>
 </ul>
 
 
