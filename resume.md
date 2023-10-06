@@ -41,7 +41,7 @@ body {margin: 25px 250px 75px 250px;
 </ul>
 <p style="color:blue;"> <b> Cerner</b>, Kansas City, MO, <i> August 2013 - May 2022 </i>
 </p>
-<p> Director | Continuous Improvement, March 2019 - Present </p>
+<p> Director | Continuous Improvement, March 2019 - May 2022 </p>
 <ul>
   <li> Facilitated Agile practice improvement by 32% in 8 months across over 300 scrum teams as Agile transformation leader; measured by reduction in feature carry-over </li>
   <li> Improved associate confidence in agile transformation success by 53% in one year </li>
