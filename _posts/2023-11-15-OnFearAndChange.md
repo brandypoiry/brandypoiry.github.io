@@ -10,14 +10,14 @@ Child care and early childhood education are severely under valued in the US. We
 
 We plan to focus on a lot of different areas and we have more plans for the future than we can feasibly articulate. But this is where we're starting:
 
-1) Paying teachers well above the industry average
-2) Working with teachers to pursue higher education so they can hone their skills to provide great learning experiences for kids
-3) Attracting teachers who already have degrees in early childhood education to perform like the experienced professionals they are with the promise of not being treated like glorified baby sitters
-4) Helping kids learn and apply practical life skills so they can grow in independence and in contributing to home life in meaningful always
-5) Exposing kids to high-quality foods they normally wouldn't eat as they explore various world cuisines as part of their learning
-6) Focusing on digital literacy and the importance of using screens and technology as a tool rather than a vice
-7) Creating books, materials, and ideas families can take home to reinforce the learning they experience at the center
-8) Providing in home consulting services to help smooth the transition between school and home environments and expectations
+* Paying teachers well above the industry average
+* Working with teachers to pursue higher education so they can hone their skills to provide great learning experiences for kids
+* Attracting teachers who already have degrees in early childhood education to perform like the experienced professionals they are with the promise of not being treated like glorified baby sitters
+* Helping kids learn and apply practical life skills so they can grow in independence and in contributing to home life in meaningful always
+* Exposing kids to high-quality foods they normally wouldn't eat as they explore various world cuisines as part of their learning
+* Focusing on digital literacy and the importance of using screens and technology as a tool rather than a vice
+* Creating books, materials, and ideas families can take home to reinforce the learning they experience at the center
+* Providing in home consulting services to help smooth the transition between school and home environments and expectations
 
 We also want to provide opportunities for working parents to take advantage of things that are normally outside the realm of possibility like baby and me fitness classes and engagement with other families in a flexible way that accommodates work schedules. We want to expand into providing after school and summer care programs for school age kids. More than anything, we want to make sending your kids to day care a pleasurable and exciting experience rather than one fraught with guilt, frustration, and fear.
 
