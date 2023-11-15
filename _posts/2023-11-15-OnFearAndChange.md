@@ -1,4 +1,4 @@
-##On Fear and Change
+## On Fear and Change
 
 I've spent a lot of time trying to figure out how to write about my current professional status. I feel really good about where I am and what I'm doing now, but it is definitely not what I was doing a month ago. My identity has always been so wrapped up in the work that I do that I don't know how to thing of myself these days. It's scary, but it's also exciting. So, without further ado...
 
