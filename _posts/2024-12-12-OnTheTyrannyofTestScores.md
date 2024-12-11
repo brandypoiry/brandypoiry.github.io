@@ -1,4 +1,4 @@
-## On the Tyranny of Test Scores
+## On the Tyranny of Test Scores, Kind Of
 
 tl;dr - Stop with the worksheets, standardized tests, and asking tiny children to pretend to be much older. These things aren't creating a better workforce and are probably creating a worse one.
 
